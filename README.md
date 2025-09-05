@@ -28,7 +28,3 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Matrix code animation" width="500" />
-</div>
