@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoLucasQrz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoLucasQrz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoLucasQrz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="GitHub stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoLucasQrz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top languages"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgur.com/3yF3hFZ.gif"  />
 
 ###
 
@@ -33,5 +33,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/DenverCoder1/readme-typing-svg@latest/assets/typing.svg?size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Coding+Every+Day;Always+Learning;Building+Projects" alt="Typing animation" />
+</div>
+
 
