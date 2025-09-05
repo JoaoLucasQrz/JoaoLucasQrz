@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/3yF3hFZ.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -34,11 +30,5 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Typing animation" width="500" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Code terminal animation" width="500" />
 </div>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/DenverCoder1/readme-typing-svg@latest/assets/typing.svg?size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Coding+Every+Day;Always+Learning;Building+Projects" alt="Typing animation" />
-</div>
-
-
