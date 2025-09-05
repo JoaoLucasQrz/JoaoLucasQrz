@@ -30,5 +30,5 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Code terminal animation" width="500" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Matrix code animation" width="500" />
 </div>
